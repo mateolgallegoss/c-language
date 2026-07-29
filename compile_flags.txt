@@ -1,1 +1,5 @@
+/*
+Path that it´s necessary to include if you want to assurance 
+that's the C ClanG extension works in Zed editor.
+*/
 -IC:/msys64/ucrt64/include
